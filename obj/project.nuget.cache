@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "dgSpecHash": "msUZFiVPAaU0CrYv9hd6Jxwdj/6cXHzSL4p/Do4AugGR1d3h8WY+6HdGBv9N+nN9rfCm3OMwPSW0K5v2b/dXRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\daab_\\Desktop\\ppt-converter\\ppt-converter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\daab_\\.nuget\\packages\\microsoft.office.interop.powerpoint\\15.0.4420.1017\\microsoft.office.interop.powerpoint.15.0.4420.1017.nupkg.sha512",
+    "C:\\Users\\daab_\\.nuget\\packages\\microsoftofficecore\\15.0.0\\microsoftofficecore.15.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Office.Interop.PowerPoint 15.0.4420.1017' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Microsoft.Office.Interop.PowerPoint",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MicrosoftOfficeCore 15.0.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MicrosoftOfficeCore",
+      "targetGraphs": [
+        "net5.0-windows7.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\ppt-converter.exe
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\ppt-converter.dll
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\ppt-converter.deps.json
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\ppt-converter.runtimeconfig.json
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\ppt-converter.pdb
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\Microsoft.Office.Interop.PowerPoint.dll
+C:\Users\daab_\Desktop\ppt-converter\bin\Release\net5.0-windows\publish\Office.dll
